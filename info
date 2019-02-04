@@ -1,0 +1,12 @@
+=== armatucotejo5 Releases - Current: v11
+v11  Deploy e24dc456                                                                                            kavanegasm@unal.edu.co  2019/02/04 08:45:06 -0500 (~ 56m ago)
+v10  Deploy e58c0912                                                                                            kavanegasm@unal.edu.co  2018/11/16 14:57:36 -0500
+v9   Deploy e58c0912                                                                                            kavanegasm@unal.edu.co  2018/11/16 14:56:25 -0500
+v8   Deploy 0602add5                                                                                            kavanegasm@unal.edu.co  2018/11/16 14:46:27 -0500
+v7   Deploy 303c02dd                                                                                            kavanegasm@unal.edu.co  2018/11/16 14:39:21 -0500
+v6   Deploy 506ecc63                                                                                            kavanegasm@unal.edu.co  2018/11/16 13:41:26 -0500
+v5   @ref:postgresql-animated-72855 completed provisioning, setting DATABASE_URL.                               kavanegasm@unal.edu.co  2018/11/16 13:41:25 -0500
+v4   Attach DATABASE (@ref:postgresql-animated-72855)                                                           kavanegasm@unal.edu.co  2018/11/16 13:41:25 -0500
+v3   Set LANG, RACK_ENV, RAILS_ENV, RAILS_LOG_TO_STDOUT, RAILS_SERVE_STATIC_FILES, SECRET_KEY_BASE config vars  kavanegasm@unal.edu.co  2018/11/16 13:41:24 -0500
+v2   Enable Logplex                                                                                             kavanegasm@unal.edu.co  2018/11/16 13:37:32 -0500
+v1   Initial release                                                                                            kavanegasm@unal.edu.co  2018/11/16 13:37:32 -0500
